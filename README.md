@@ -21,22 +21,15 @@
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=s4mpaioo&theme=radical&hide_border=true&ring=F3F4F6&fire=F3F4F6&currStreakLabel=F3F4F6" height="150" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/s4mpaioo/s4mpaioo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 📫 Contato
-- Email: seuemail@email.com
-- LinkedIn: https://linkedin.com/in/seu-perfil
+### Contato
+- Email: pedro.ph.phgchs@email.com
+- LinkedIn: https://www.linkedin.com/in/pedrosampaio25
 
 ---
 
