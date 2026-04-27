@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 💼 Desenvolvedor Back-End focado em APIs e sistemas escaláveis
-- 📚 Estudando Node.js, Java, Python, IA e boas práticas de arquitetura
-- 🚀 Em constante evolução
+-  Desenvolvedor Back-End focado em APIs e sistemas escaláveis
+-  Estudando Node.js, Java, Python, IA e boas práticas de arquitetura
+-  Em constante evolução
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ### Contato
-- Email: pedro.ph.phgchs@email.com
+- Email: pedro.ph.phgchs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pedrosampaio25
 
 ---
